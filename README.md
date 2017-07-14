@@ -1,1 +1,1 @@
-# Tip-Calculator-iOS
+# Tip-Calculator-ios
